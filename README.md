@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raj Kumar Gupta
      - I am a dependable person who is great at time management. Always energetic and eager to learn new skills. Even though I take my work seriously, I do have a good sense of humour. 
-Robotics enthusiast 🤖 | Mathematicaphile 📖
-- 👀 I’m interested in Robotics and IT support work.
+Software Engineer | Robotics enthusiast 🤖 | Mathematicaphile 📖  
+- 👀 I’m interested in Software Dev, Robotics and IT support work.
 - 🌱 I’m currently learning new skill every day.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : Following are my contact details : 
